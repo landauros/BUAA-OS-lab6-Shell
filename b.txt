@@ -1,0 +1,62 @@
+qemu-system-mipsel -cpu 4Kc -m 64 -nographic -M malta   -no-reboot -kernel target/mos
+999999
+   12
+  -12
+-1234
+00012
+12   
+-12  
+-0012
+11111111111111111111111111111000
+1111111111111111111111111111111
+-0100
+37777777634
+37777777634
+4294967196
+4294967196
+123abc
+123ABC
+ffedc544
+FFEDC544
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+I love buaa scse!
+I l
+97
+a
+61
+97
+1100001
+i love buaa
+abcdefghijklmnopqrst
+i love os
+string
+good luck
+-97and97
+-97anda
+-97and61
+-97and1100001
+-97and97
+0097end
+0061end
+97  end
+61  end
+97end
+0097end
+ffffff9fend
+1100010
+98
+98
+142
+98
+98
+7e8
+7E8
+2024a%
+printk_3
+This letter is p
+start- printk_3 -end
+-98 and 98
+-98 and b
+-98 and 62
+-98 and 1100010
+-98 and 98
